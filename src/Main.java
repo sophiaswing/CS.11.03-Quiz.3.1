@@ -18,6 +18,7 @@ public class Main {
     }
 
     // Question 2 - fizzBuzz
+    ///
     public static String fizzBuzz(int num) {
         String ans = "";
         if(num%3 == 0){
